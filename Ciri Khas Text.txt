@@ -1,0 +1,5 @@
+Karakter spesial di dalam text
+
+\xe2 \x80 \x9c
+
+\n
