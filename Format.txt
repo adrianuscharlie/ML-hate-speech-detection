@@ -1,0 +1,6 @@
+format skripsi
+font: times new romans 12
+spasi : 2
+ukuran kertas A4
+penomoran romawi
+Rujukan pakai Apa (Nama,tahun)
