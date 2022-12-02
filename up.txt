@@ -1,0 +1,27 @@
+Skenario kedua
+
+langkah-langkah
+1. Preprocessing data
+2. remove stopwords
+3. translate
+4. sentiment
+5. label
+
+
+Skenario 1
+
+langkah-langkah
+1. Translate data
+2. sentiment
+3. label
+4. preprocessing data
+5. remove stopwords
+
+
+skenario 3
+
+langkah-langkah
+1. translate data
+2. sentiment
+3. label
+4. preprocessing
