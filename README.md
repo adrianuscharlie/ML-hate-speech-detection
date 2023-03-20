@@ -1,6 +1,9 @@
 # Sentiment Analysis Using LSTM and Bidirectional LSTM on Selena Gomez
 
 Create deep learning model for hate speech detection using LSTM and Bidirectional LSTM layer on Selena Gomez phenomenon. This repository are used for my final assignment for my thesis. This repository focus on comparing the LSTM and BiLSTM layer, and finding the optimum parameter for this model. 
+![alt text](https://i.insider.com/63fd4705d5d80a0018276ebd?width=700)
+![alt text](https://yt3.googleusercontent.com/ytc/AL5GRJXDeStsPJL7Uz92074WfPjSGB7j810G8LqwhTKKSA=s900-c-k-c0x00ffffff-no-rj)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png)
 
 ## Features
 - Tools
