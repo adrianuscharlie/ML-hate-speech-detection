@@ -16,7 +16,6 @@ Tools that are used to do this sentiment analysis are:
 - Tweepy
 - Vader Lexicon
 - Tensorflow
-- 
 
 
 ## Dataset
@@ -47,7 +46,8 @@ The preprocessing applied to the dataset is as follows:
 
 For detail preprocessing, you can access through this link [Preprocessing Notebook](https://github.com/adrianuscharlie/ML-hate-speech-detection/blob/main/Selena%20Gomez/data_preprocessing_vader.ipynb)
 
-
+## Modelling
+Using deep learning model from Tensorflow that are builded with many variety model depends on layer,  optimizer, activation function, and loss function. This model builded with 20 epochs and using Early Stopping. 
 
 
 
