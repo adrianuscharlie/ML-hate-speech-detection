@@ -22,6 +22,13 @@ Here is the dataset link [Dataset Link](https://github.com/adrianuscharlie/ML-ha
 The preprocessing applied to the dataset is as follows:
 - Filtering tweets that contains "RT" words
 - Lowercase
+- Remove non alphanumeric characters
+- Remove unnecessary characters
+- Stop word removal
+- Stemming
+- Lemmatization
+
+For detail preprocessing, you can access through this link [Preprocessing Notebook](https://github.com/adrianuscharlie/ML-hate-speech-detection/blob/main/Selena%20Gomez/data_preprocessing_vader.ipynb)
 
 
 
