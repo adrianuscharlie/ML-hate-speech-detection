@@ -20,8 +20,10 @@ Here is the dataset link [Dataset Link](https://github.com/adrianuscharlie/ML-ha
 
 ## Preprocessing
 The preprocessing applied to the dataset is as follows:
---Filtering tweets that contains "RT" words
---Lowercase
+-Filtering tweets that contains "RT" words
+filter dataset that contains retweet text t avoid duplicated data
+-Lowercase
+convert alphabet into lowercase to avoid variation of alphabet
 
 
 
