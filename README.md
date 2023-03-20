@@ -18,8 +18,12 @@ Here is the dataset link [Dataset Link](https://github.com/adrianuscharlie/ML-ha
 |Thu Mar 02 23:59:44 +0000 2023 | Kenzie5Peterson | RT @juliannarvivas: Im a Selena Gomez &amp; you a Hailey Bieber.|
 |Thu Mar 02 23:56:18 +0000 2023 | babyyyannieee | Justin Bieber &amp; Selena Gomez followed each other on Twitter 😭teenage me is crying 😭|
 
-
-
+## Preprocessing
+The preprocessing applied to the dataset is as follows:
+--Filtering tweets that contains "RT" words
+this thing required to avoid duplicated data from twitter
+--Lowercase
+convert text into lowercase to reduce the variation of alphabet
 
 
 
